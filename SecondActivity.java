@@ -1,4 +1,4 @@
-package com.example.dvdasaapp.dvdasaapp;
+package com.example.company.appname;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
