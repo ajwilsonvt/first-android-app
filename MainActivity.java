@@ -1,4 +1,4 @@
-package com.example.dvdasaapp.dvdasaapp;
+package com.example.company.appname;
 
 // These packages were imported by default by Android Studio
 // A library in Java is a set of packages
