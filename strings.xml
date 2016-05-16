@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">DVDASA App</string>
+    <string name="app_name">First Android App</string>
 
     <!-- In the strings.xml file you create string objects that you can reference in your
     activity classes. It is bad practice to hardcode strings directly into the
