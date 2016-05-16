@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DVDASA App</string>
+
+    <!-- In the strings.xml file you create string objects that you can reference in your
+    activity classes. It is bad practice to hardcode strings directly into the
+    activity class. -->
+
+    <string name="hello_world">Hello world! Welcome to my app!</string>
+    <string name="second_page">"Welcome to the second page!</string>
+    <string name="next">"Next Page"</string>
+</resources>
